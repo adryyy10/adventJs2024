@@ -21,7 +21,6 @@ function createFrame(names) {
 
 // Example usage
 const frame = createFrame(['midu', 'madeval', 'educalvolpz']);
-console.log(frame);
 
 // Tests
 function runTests() {
